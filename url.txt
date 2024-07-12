@@ -1,0 +1,16 @@
+http://www.xdcms.com/index.php
+http://www.xdcms.com/robots.txt
+http://www.xdcms.com/admin
+http://www.xdcms.com/System
+http://www.xdcms.com/data
+http://www.xdcms.com/admin/index.php
+http://www.xdcms.com/admin/upload.php
+http://www.xdcms.com/UploadFile
+http://www.xdcms.com/index.php
+http://www.xdcms.com/robots.txt
+http://www.xdcms.com/admin
+http://www.xdcms.com/System
+http://www.xdcms.com/data
+http://www.xdcms.com/admin/index.php
+http://www.xdcms.com/admin/upload.php
+http://www.xdcms.com/UploadFile
